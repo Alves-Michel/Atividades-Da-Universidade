@@ -1,6 +1,6 @@
 # Atividades-Da-Universidade
 
- ##Contador de Vogais: 
+ ## Contador de Vogais: 
  Este código em Java conta quantas vogais há em uma palavra fornecida pelo usuário. Ele solicita ao usuário que digite uma palavra, converte-a para minúsculas e, em seguida, itera sobre cada caractere para verificar se é uma vogal ('a', 'e', 'i', 'o', 'u'). O número total de vogais é contado e exibido, junto com as vogais encontradas.
 
  ## Verificador de Palíndromos:
