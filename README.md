@@ -19,5 +19,5 @@
  ## InputHandler: 
  Esta classe fornece uma maneira de lidar com a entrada do usuário, encapsulando a funcionalidade do Scanner. Ela inicializa um Scanner para ler a entrada do usuário e fornece um método para obter o Scanner para uso em outras partes do código.
 
- ##Main: 
+ ## Main: 
  Ponto de entrada da aplicação, onde são instanciadas as outras classes e métodos são chamados para realizar as operações específicas. Ele instancia as classes relevantes e chama seus métodos apropriados para realizar as tarefas solicitadas pelo usuário.
